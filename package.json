@@ -1,0 +1,23 @@
+{
+  "name": "day3-training-arc-13524080",
+  "version": "1.0.0",
+  "description": "Tugas website sederhana untuk Day 3 training ARC ITB. Website yang menggunakan express js sebagai backend juga sebagai API sederhana bagi website. Website juga menggunakan implementasi dari salah satu API publik",
+  "homepage": "https://github.com/renuno-frinardi/Day3-Training-ARC-13524080#readme",
+  "bugs": {
+    "url": "https://github.com/renuno-frinardi/Day3-Training-ARC-13524080/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renuno-frinardi/Day3-Training-ARC-13524080.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
