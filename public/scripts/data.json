@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "username" : "Anon1",
+        "messages" : "This manga sucks bruh"
+    },
+    {
+        "id" : 2,
+        "username" : "Anon2",
+        "messages" : "What is the manga"
+    },
+    {
+        "id" : 3,
+        "username" : "Anon1",
+        "messages" : "You fr don't know?"
+    }
+]

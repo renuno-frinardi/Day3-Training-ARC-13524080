@@ -10,8 +10,12 @@ app.get('/', (req, res) => {
   res.sendFile(staticPath + '/pages/index.html');
 });
 
-app.get('/catalog', (req, res) => {
-  res.sendFile(staticPath + '/pages/catalog.html');
+app.get('/recommendation', (req, res) => {
+  res.sendFile(staticPath + '/pages/recommendation.html');
+});
+
+app.get('/forum', (req, res) => {
+  res.sendFile(staticPath + '/pages/forum.html');
 });
 
 app.listen(5500, () => {
