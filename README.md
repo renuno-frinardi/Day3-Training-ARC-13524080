@@ -7,5 +7,3 @@ Tugas website sederhana untuk Day 3 training ARC ITB. Website yang menggunakan e
 - Renuno Yuqa Frinardi
 - NIM 19624126/13524080
 - Fakultas STEI-K / Jurusan Teknik Informatika 2024
-
-# Deskripsi Singkat Website
